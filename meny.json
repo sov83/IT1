@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Cappuccino",
+    "price": 35,
+    "vegetarian": true
+  },
+  {
+    "id": 2,
+    "name": "Espresso",
+    "price": 30,
+    "vegetarian": true
+  },
+  {
+    "id": 3,
+    "name": "Croissant",
+    "price": 25,
+    "vegetarian": true
+  },
+  {
+    "id": 4,
+    "name": "Sandwich",
+    "price": 45,
+    "vegetarian": false
+  },
+  {
+    "id": 5,
+    "name": "Latte",
+    "price": 40,
+    "vegetarian": true
+  },
+  {
+    "id": 6,
+    "name": "Mokka",
+    "price": 45,
+    "vegetarian": true
+  },
+  {
+    "id": 7,
+    "name": "Te",
+    "price": 30,
+    "vegetarian": true
+  },
+  {
+    "id": 8,
+    "name": "Kake",
+    "price": 50,
+    "vegetarian": true
+  },
+  {
+    "id": 9,
+    "name": "Salat",
+    "price": 55,
+    "vegetarian": true
+  },
+  {
+    "id": 10,
+    "name": "Suppe",
+    "price": 60,
+    "vegetarian": false
+  },
+  {
+    "id": 11,
+    "name": "Panini",
+    "price": 50,
+    "vegetarian": false
+  },
+  {
+    "id": 12,
+    "name": "Smoothie",
+    "price": 45,
+    "vegetarian": true
+  },
+  {
+    "id": 13,
+    "name": "Vaffel",
+    "price": 40,
+    "vegetarian": true
+  },
+  {
+    "id": 14,
+    "name": "Ostekake",
+    "price": 55,
+    "vegetarian": true
+  },
+  {
+    "id": 15,
+    "name": "Baguette",
+    "price": 35,
+    "vegetarian": true
+  }
+]
