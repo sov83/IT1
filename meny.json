@@ -1,92 +1,92 @@
 [
   {
-    "id": 1,
-    "name": "Cappuccino",
-    "price": 35,
-    "vegetarian": true
+    "nr": 1,
+    "navn": "Cappuccino",
+    "pris": 35,
+    "vegetar": true
   },
   {
-    "id": 2,
-    "name": "Espresso",
-    "price": 30,
-    "vegetarian": true
+    "nr": 2,
+    "navn": "Espresso",
+    "pris": 30,
+    "vegetar": true
   },
   {
-    "id": 3,
-    "name": "Croissant",
-    "price": 25,
-    "vegetarian": true
+    "nr": 3,
+    "navn": "Croissant",
+    "pris": 25,
+    "vegetar": true
   },
   {
-    "id": 4,
-    "name": "Sandwich",
-    "price": 45,
-    "vegetarian": false
+    "nr": 4,
+    "navn": "Sandwich",
+    "pris": 45,
+    "vegetar": false
   },
   {
-    "id": 5,
-    "name": "Latte",
-    "price": 40,
-    "vegetarian": true
+    "nr": 5,
+    "navn": "Latte",
+    "pris": 40,
+    "vegetar": true
   },
   {
-    "id": 6,
-    "name": "Mokka",
-    "price": 45,
-    "vegetarian": true
+    "nr": 6,
+    "navn": "Mokka",
+    "pris": 45,
+    "vegetar": true
   },
   {
-    "id": 7,
-    "name": "Te",
-    "price": 30,
-    "vegetarian": true
+    "nr": 7,
+    "navn": "Te",
+    "pris": 30,
+    "vegetar": true
   },
   {
-    "id": 8,
-    "name": "Kake",
-    "price": 50,
-    "vegetarian": true
+    "nr": 8,
+    "navn": "Kake",
+    "pris": 50,
+    "vegetar": true
   },
   {
-    "id": 9,
-    "name": "Salat",
-    "price": 55,
-    "vegetarian": true
+    "nr": 9,
+    "navn": "Salat",
+    "pris": 55,
+    "vegetar": true
   },
   {
-    "id": 10,
-    "name": "Suppe",
-    "price": 60,
-    "vegetarian": false
+    "nr": 10,
+    "navn": "Suppe",
+    "pris": 60,
+    "vegetar": false
   },
   {
-    "id": 11,
-    "name": "Panini",
-    "price": 50,
-    "vegetarian": false
+    "nr": 11,
+    "navn": "Panini",
+    "pris": 50,
+    "vegetar": false
   },
   {
-    "id": 12,
-    "name": "Smoothie",
-    "price": 45,
-    "vegetarian": true
+    "nr": 12,
+    "navn": "Smoothie",
+    "pris": 45,
+    "vegetar": true
   },
   {
-    "id": 13,
-    "name": "Vaffel",
-    "price": 40,
-    "vegetarian": true
+    "nr": 13,
+    "navn": "Vaffel",
+    "pris": 40,
+    "vegetar": true
   },
   {
-    "id": 14,
-    "name": "Ostekake",
-    "price": 55,
-    "vegetarian": true
+    "nr": 14,
+    "navn": "Ostekake",
+    "pris": 55,
+    "vegetar": true
   },
   {
-    "id": 15,
-    "name": "Baguette",
-    "price": 35,
-    "vegetarian": true
+    "nr": 15,
+    "navn": "Baguette",
+    "pris": 35,
+    "vegetar": true
   }
 ]
