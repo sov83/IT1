@@ -3,90 +3,105 @@
     "nr": 1,
     "navn": "Cappuccino",
     "pris": 35,
-    "vegetar": true
+    "vegetar": true,
+    "bilde": "https://c.pxhere.com/photos/9b/ba/coffee_latte_art_cup_of_coffee_cappuccino-651527.jpg!d"
   },
   {
     "nr": 2,
     "navn": "Espresso",
     "pris": 30,
-    "vegetar": true
+    "vegetar": true,
+    "bilde": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Espresso_shot.jpg/800px-Espresso_shot.jpg?20210215183555"
   },
   {
     "nr": 3,
     "navn": "Croissant",
     "pris": 25,
-    "vegetar": true
+    "vegetar": true,
+    "bilde": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Croissant%2C_whole.jpg/799px-Croissant%2C_whole.jpg?20140607193831"
   },
   {
     "nr": 4,
     "navn": "Sandwich",
     "pris": 45,
-    "vegetar": false
+    "vegetar": false,
+    "bilde": "https://c.pxhere.com/photos/f6/8e/photo-1614455.jpg!d"
   },
   {
     "nr": 5,
     "navn": "Latte",
     "pris": 40,
-    "vegetar": true
+    "vegetar": true,
+    "bilde": "https://c.pxhere.com/photos/e9/60/coffee_drink_co_drinking_coffee_cup_beverage_hot_cafe-646824.jpg!d"
   },
   {
     "nr": 6,
     "navn": "Mokka",
     "pris": 45,
-    "vegetar": true
+    "vegetar": true,
+    "bilde": "https://c.pxhere.com/photos/8e/79/coffee_gourmet_design_spider_web_cream_drink_caf_brown-1380454.jpg!d"
   },
   {
     "nr": 7,
     "navn": "Te",
     "pris": 30,
-    "vegetar": true
+    "vegetar": true,
+    "bilde": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/A_cup_of_black_tea_from_Srimangal_Bangladesh.jpg/799px-A_cup_of_black_tea_from_Srimangal_Bangladesh.jpg?20240130023358"
   },
   {
     "nr": 8,
     "navn": "Kake",
     "pris": 50,
-    "vegetar": true
+    "vegetar": true,
+    "bilde": "https://media.snl.no/media/283284/standard_compressed_640px-Sachertorte_DSC03027_retouched.jpg"
   },
   {
     "nr": 9,
     "navn": "Salat",
     "pris": 55,
-    "vegetar": true
+    "vegetar": true,
+    "bilde": "https://c.pxhere.com/photos/04/85/salad_salad_plate_vitamins_healthy_eat_starter_cucumber_green-836293.jpg!d"
   },
   {
     "nr": 10,
     "navn": "Suppe",
     "pris": 60,
-    "vegetar": false
+    "vegetar": false,
+    "bilde": "https://c.pxhere.com/photos/07/4a/healthy_pumpkin_soup_top_view-1608038.jpg!d"
   },
   {
     "nr": 11,
     "navn": "Panini",
     "pris": 50,
-    "vegetar": false
+    "vegetar": false,
+    "bilde": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Panini_%2815101530003%29.jpg/800px-Panini_%2815101530003%29.jpg?20150701181859"
   },
   {
     "nr": 12,
     "navn": "Smoothie",
     "pris": 45,
-    "vegetar": true
+    "vegetar": true,
+    "bilde": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kiwi_Smoothie.jpg/630px-Kiwi_Smoothie.jpg?20220903223411"
   },
   {
     "nr": 13,
     "navn": "Vaffel",
     "pris": 40,
-    "vegetar": true
+    "vegetar": true,
+    "bilde": "https://c.pxhere.com/photos/af/03/berries_dessert_food_fruit_plate_raspberries_waffles_whipped_cream-1483259.jpg!d"
   },
   {
     "nr": 14,
     "navn": "Ostekake",
     "pris": 55,
-    "vegetar": true
+    "vegetar": true,
+    "bilde": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Prague_Praha_2014_Holmstad_Cafe_Louvre_cheese_cake_ostekake.JPG/800px-Prague_Praha_2014_Holmstad_Cafe_Louvre_cheese_cake_ostekake.JPG?20191105202732"
   },
   {
     "nr": 15,
     "navn": "Baguette",
     "pris": 35,
-    "vegetar": true
+    "vegetar": true,
+    "bilde": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Baguette_sandwich.jpg/405px-Baguette_sandwich.jpg?20101208121513"
   }
 ]
